@@ -3,7 +3,6 @@ import json
 import logging.config
 from time import sleep
 import datetime
-import wget
 import numpy as np
 import os
 import pandas as pd
