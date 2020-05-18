@@ -22,10 +22,13 @@ Button "Precautions": shows what you need to know about coronovirus, recommendat
 Button: "Reference Information": shows the description of the bot.
 
 To start the bot, you must run the following commands:
+
 pip install -r requirements.txt (to install the necessary dependencies)
 
 To run a script to receive data and update the forecast model:
+
 python update_data.py (better install package 'screen' in linux and run into the process as: screen -dmS name python update_data.py)
 
 To start the bot, you must run the command:
+
 python icq_final.py
