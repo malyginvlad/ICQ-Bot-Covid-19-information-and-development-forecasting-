@@ -1,5 +1,8 @@
 # ICQ-Bot-Covid-19-information-and-development-forecasting-
 
+You can test this bot:
+https://icq.im/covid19_info_bot
+
 Description of bot functionality:
     
 News feed button: displays basic information about the status and development of COVID19 in Russia according to the data of the stopkoronovirus.ru portal.
