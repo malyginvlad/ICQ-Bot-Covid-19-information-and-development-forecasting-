@@ -3,7 +3,6 @@ import json
 import logging.config
 from time import sleep
 import datetime
-import wget
 import numpy as np
 import os
 import pandas as pd
@@ -18,8 +17,6 @@ from bot.handler import HelpCommandHandler, UnknownCommandHandler, MessageHandle
     EditedMessageHandler, DeletedMessageHandler, StartCommandHandler, BotButtonCommandHandler
 import warnings
 import requests
-from bs4 import BeautifulSoup
-from tldextract import extract
 
 warnings.filterwarnings("ignore")
 
