@@ -1,0 +1,16 @@
+  
+# Library dependencies for the python code.  You need to install these with
+# `pip install -r requirements.txt` before you can run this.
+
+pandas
+numpy
+scipy
+matplotlib
+mailru-im-bot
+requests
+bs4
+math
+geopandas
+selenium
+newspaper3k
+elementpath
